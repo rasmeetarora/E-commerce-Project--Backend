@@ -25,6 +25,9 @@ This E-commerce Backend is built using Node.js, Express.js, and MongoDB to manag
 2️⃣ Product Management (Add, Update, Delete, Fetch)
 
 3️⃣ Cart & Order System (Users can add items to cart & place orders)
+
 4️⃣ Payment Gateway Integration (Stripe/PayPal for secure transactions)
+
 5️⃣ Admin Dashboard APIs (Manage users, products, and orders)
+
 6️⃣ Error Handling & Security Features (Helmet, CORS, Rate Limiting)
